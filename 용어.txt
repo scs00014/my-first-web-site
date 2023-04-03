@@ -1,0 +1,9 @@
+strong - 글자 진하게
+u - 밑줄 (underline)
+h1 제일큼 크고 글자 강조됨 다음 한줄 띄어짐
+h6제일 작음
+p - 단락구분할때 씀
+br - 줄 바꿀때 씀
+(p태그가 더 
+
+ex) <strong> </strong>
